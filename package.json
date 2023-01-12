@@ -1,0 +1,25 @@
+{
+  "name": "whatsup-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girija1348328/whatsup-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girija1348328/whatsup-chatbot/issues"
+  },
+  "homepage": "https://github.com/girija1348328/whatsup-chatbot#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "nodemon": "^2.0.20",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.18.4"
+  }
+}
